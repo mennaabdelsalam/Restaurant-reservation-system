@@ -1,0 +1,54 @@
+<restaurant>
+
+
+    <users>
+
+
+        <user>
+
+            <name>Adam Smith</name>
+
+            <role>Manager</role>
+
+            <username>adam</username>
+
+            <password>adam_manager</password>
+
+        </user>
+
+
+        <user>
+
+            <name>John Doe</name>
+
+            <role>Client</role>
+
+            <username>john</username>
+
+            <password>john_doe</password>
+
+        </user>
+
+
+        <user>
+
+            <name>George Robben</name>
+
+            <role>Waiter</role>
+
+            <username>george</username>
+
+            <password>k6987_#LpQ</password>
+
+        </user>
+        <user>
+            <name>Tomas Hobbens</name>
+            <role>Cooker</role>
+            <username>hobbens_tom</username>
+            <password>cooker_pass</password>
+        </user>
+
+
+    </users>
+
+</restaurant>
